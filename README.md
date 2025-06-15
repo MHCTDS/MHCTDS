@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Matheus Henrique Cajueiro Tobias de Souza, currently working as a ML engineer and AI researcher in the Federal University of Rio de Janeiro as a undergraduate computer science student.
-My main work is on violence detection and classification on the VISAGE project, a open source violence classification model for social media posts written in brazilian portuguese.
-Links for the github repo and hugging faces model repo here:
-https://github.com/ufrrj-labweb/visage
-https://huggingface.co/MHCTDS/visage
+I am Matheus Henrique Cajueiro Tobias de Souza, currently working as a ML engineer and AI researcher in the Federal University of Rio de Janeiro as a undergraduate computer science student.<br/>
+My main work is on violence detection and classification on the VISAGE project, a open source violence classification model for social media posts written in brazilian portuguese.<br/>
+Links for the github repo and hugging faces model repo here:<br/>
+https://github.com/ufrrj-labweb/visage<br/>
+https://huggingface.co/MHCTDS/visage<br/>
 
 - 🔭 I’m currently working on a social media app based on a social sensing architecture, using humans as sensors to discover features of the enviroment around them through NLP analysis of posts and embedded sensors on mobile devices.
 - 🌱 I’m currently learning Computer Vision and ML recommendation systems like the twin tower architecture.
