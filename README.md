@@ -18,8 +18,8 @@ https://huggingface.co/MHCTDS/visage<br/>
   <a href="https://linkedin.com/in/matheus-henrique-cajueiro-tobias-de-souza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://codepen.io/chijiokeokorji](https://huggingface.co/MHCTDS" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=Hugging&logoColor=white" target="_blank" />
+  <a href="https://huggingface.co/MHCTDS" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging-1e1f26?style=for-the-badge&logo=Hugging&logoColor=white" target="_blank" />
   </a>
 </div>
 
