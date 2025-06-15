@@ -10,8 +10,17 @@ https://huggingface.co/MHCTDS/visage
 - 🌱 I’m currently learning Computer Vision and ML recommendation systems like the twin tower architecture.
 - 📫 How to reach me: 1MHCTDS8@gmail.com
 
-I use github mainly to publish my research code and models in a open source manner, make education content on ML techniques and store a few projects i developed as a way to fixate what i study/project based learning.
+I use github mainly to publish my research code and models in a open source manner, make educational content on ML techniques and store a few projects I developed as a way to fixate what I study/project based learning.
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,julia,SQL,docker,git" />
+</p>
+
+<hr>
 <!--
 **MHCTDS/MHCTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
