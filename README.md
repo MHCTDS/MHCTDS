@@ -17,7 +17,9 @@ I use github mainly to publish my research code and models in a open source mann
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,julia,SQL,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,julia,cpp" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker,kubernetes,git,anaconda" />
+  <img src="https://skillicons.dev/icons?i=neovim,apple" />
 </p>
 
 <hr>
